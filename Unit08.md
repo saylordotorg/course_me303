@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME303: Thermal-Fluid Systems"
+course_description: "A detailed review of thermodynamics and energy topics, which include thermodynamic cycles, flow measurement, pumping, piping, and pressure drops, heat exchangers, cooling and refrigeration, engines, and power conversion."
+next: ../../../
+previous: ../Unit07
+---
 **Unit 8: Final Exam** <span id="8"></span> 
 -   **Final Exam: The Saylor Foundation's ME303 Final Exam**
     Link: The Saylor Foundation's [ME303 Final

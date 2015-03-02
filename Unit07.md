@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME303: Thermal-Fluid Systems"
+course_description: "A detailed review of thermodynamics and energy topics, which include thermodynamic cycles, flow measurement, pumping, piping, and pressure drops, heat exchangers, cooling and refrigeration, engines, and power conversion."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Power Conversion** <span id="7"></span> 
 *The subject of power conversion is vast, encompassing processes as
 diverse as nuclear reactions and the dynamics of life.  In this section,

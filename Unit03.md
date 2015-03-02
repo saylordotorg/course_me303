@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME303: Thermal-Fluid Systems"
+course_description: "A detailed review of thermodynamics and energy topics, which include thermodynamic cycles, flow measurement, pumping, piping, and pressure drops, heat exchangers, cooling and refrigeration, engines, and power conversion."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Equipment for Moving Fluids** <span id="3"></span> 
 *Pumps, blowers, fans, and compressors are available in many varieties
 for pressurizing and moving gases and liquids.  In this section, you

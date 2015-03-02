@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME303: Thermal-Fluid Systems"
+course_description: "A detailed review of thermodynamics and energy topics, which include thermodynamic cycles, flow measurement, pumping, piping, and pressure drops, heat exchangers, cooling and refrigeration, engines, and power conversion."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Cooling and Refrigeration** <span id="6"></span> 
 *You may be familiar with different types of cooling equipment and
 operations.  All of these involve the transfer of energy from a high

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME303: Thermal-Fluid Systems"
+course_description: "A detailed review of thermodynamics and energy topics, which include thermodynamic cycles, flow measurement, pumping, piping, and pressure drops, heat exchangers, cooling and refrigeration, engines, and power conversion."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Measurement of Flow** <span id="2"></span> 
 *In order to assess pumping and piping operations, you must know the
 mass and volumetric flow rates and velocities in the system, which you
