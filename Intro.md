@@ -148,3 +148,4 @@ Monday night, Subunit 1.1 (a total of 3 hours) on Tuesday and Subunit
 - [Unit 6](https://legacy.saylor.org/me303/Unit06/)
 - [Unit 7](https://legacy.saylor.org/me303/Unit07/)
 - [Unit 8](https://legacy.saylor.org/me303/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME303/ME303-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME303/ME303-FinalExam-Answers.html)
