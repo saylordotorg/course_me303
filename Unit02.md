@@ -45,12 +45,12 @@ Upon successful completion of this unit, the student will be able to:
     and Process Control: “Chapter 9: Fluids”**
     Link: Scribd.com’s *Introduction to Instrumentation, Sensors, and
     Process Control:* “[Chapter 9:
-    Fluids](http://www.saylor.org/site/wp-content/uploads/2011/09/GetBlob.pdf)”
+    Fluids](https://resources.saylor.org/archived/wp-content/uploads/2011/09/GetBlob.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Introduction-to-Instrumentation-Sensors-William-C.-Dunn.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Introduction-to-Instrumentation-Sensors-William-C.-Dunn.epub)  
         
      Instructions: Read this chapter (pages 129-148) and use it as an
     overall reference for this entire unit.  
@@ -119,7 +119,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia’s “Pressure Measurement”**
     Link: Wikipedia’s “[Pressure
-    Measurement](http://www.saylor.org/site/wp-content/uploads/2011/04/Pressure_measurement.pdf)”
+    Measurement](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Pressure_measurement.pdf)”
     (PDF)  
         
      Instructions: Read the material here for a survey of the area.  Pay
@@ -174,7 +174,7 @@ Coefficients** <span id="2.1.3"></span> 
     Calculations for Orifice Plates and Venturi Meters”**
     Link: The Saylor Foundation’s “[Note on Pressure Drop Calculations
     for Orifice Plates and Venturi
-    Meters](http://www.saylor.org/site/wp-content/uploads/2011/11/ME303-2.4.1-Original-Content-Note-1-FINAL2.pdf)”
+    Meters](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME303-2.4.1-Original-Content-Note-1-FINAL2.pdf)”
     (PDF)  
         
      Instructions: After completing subunits 2.1.3 and 2.1.4, refer to
@@ -188,7 +188,7 @@ Coefficients** <span id="2.1.3"></span> 
 **2.1.4 Pitot Tubes** <span id="2.1.4"></span> 
 -   **Reading: NASA’s “Pitot Static Tube”**
     Link: NASA’s [“Pitot Static
-    Tube”](http://www.grc.nasa.gov/WWW/K-12/airplane/pitot.html)[](http://www.saylor.org/site/wp-content/uploads/2011/07/ME303-2.1.4.pdf)(PDF)  
+    Tube”](http://www.grc.nasa.gov/WWW/K-12/airplane/pitot.html)[](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-2.1.4.pdf)(PDF)  
         
      Instructions: Read the webpage, and consider how the theory differs
     for incompressible and compressible flows.  What sort of spatial
@@ -200,9 +200,9 @@ Coefficients** <span id="2.1.3"></span> 
 **2.2 Velocimetry or Anemometry** <span id="2.2"></span> 
 -   **Reading: Wikipedia’s “Velocimetry” and “Anemometer”**
     Links: Wikipedia’s
-    “[Velocimetry](http://www.saylor.org/site/wp-content/uploads/2011/04/Velocimetry.pdf)”
+    “[Velocimetry](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Velocimetry.pdf)”
     (PDF) and
-    “[Anemometer](http://www.saylor.org/site/wp-content/uploads/2011/04/Anemometer.pdf)”
+    “[Anemometer](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Anemometer.pdf)”
     (PDF)  
       
      Instructions: With advances in instrumentation, many complex
