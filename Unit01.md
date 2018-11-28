@@ -42,11 +42,11 @@ Upon successful completion of this unit, the student will be able to:
     and Review of Unified Engineering Thermodynamics”**
     Link: MIT: Professor Zoltan Spakovszky's “[Prelude: Introduction and
     Review of Unified Engineering Thermodynamics”
-    (PDF)](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-1.pdf)  
+    (PDF)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-1.pdf)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-1-Zoltan-Spakovszky.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-1-Zoltan-Spakovszky.epub)  
       
      Instructions: Click on the “PDF” hyperlink listed for Section 0
     after the title “Prelude: Introduction and Review of Unified
@@ -125,7 +125,7 @@ id="1.1.2"></span> 
 **1.2.1 Control Volume Approach** <span id="1.2.1"></span> 
 -   **Reading: WikiBooks’ Fluid Mechanics: “Chapter 3”**
     Link: WikiBooks’ *Fluid Mechanics*: “[Chapter
-    3](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Fluid-Mechanics_Ch3.pdf)”
+    3](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Fluid-Mechanics_Ch3.pdf)”
     (PDF)  
         
      Instructions: Read only Section 1 of this chapter.  This material
@@ -151,7 +151,7 @@ id="1.1.2"></span> 
 <span id="1.2.2"></span> 
 -   **Reading: WikiBooks’ Fluid Mechanics: “Chapter 3”**
     Link: WikiBooks’ *Fluid Mechanics*: “[Chapter
-    3](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Fluid-Mechanics_Ch3.pdf)”
+    3](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Fluid-Mechanics_Ch3.pdf)”
     (PDF)  
         
      Instructions: Read only Section 2 of this chapter.  As noted
@@ -168,7 +168,7 @@ id="1.1.2"></span> 
 **1.3.1 Definition** <span id="1.3.1"></span> 
 -   **Reading: Wikipedia’s “Thermodynamic Cycle”**
     Link: Wikipedia’s “[Thermodynamic
-    Cycle](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Thermodynamic_cycle.pdf)”
+    Cycle](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Thermodynamic_cycle.pdf)”
     (PDF)  
         
      Instructions: Read the entire text and attempt the following
@@ -186,16 +186,16 @@ id="1.1.2"></span> 
     Notes**
     Link: MIT: Professor Zoltan Spakovszky’s “Thermal Energy:
     Introduction and Review of Engineering Thermodynamics” Lecture
-    Notes [1a](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-1a.pdf),
-    [2a](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-2a.pdf),
+    Notes [1a](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-1a.pdf),
+    [2a](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-2a.pdf),
     and
-    [2b](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-2b.pdf). (PDF)  
+    [2b](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-2b.pdf). (PDF)  
         
      Also available in:  
      EPUB
-    [1a](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-1a-Zoltan-Spakovszky.epub),
+    [1a](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-1a-Zoltan-Spakovszky.epub),
     2a,
-    [2b](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-2b-Zoltan-Spakovszky.epub)  
+    [2b](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-2b-Zoltan-Spakovszky.epub)  
       
      Instructions: Please click on the “PDF” hyperlink after each title
     for sections 1a, 2a, and 2b.  You may skim through this material,

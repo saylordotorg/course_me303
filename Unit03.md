@@ -81,7 +81,7 @@ Upon successful completion of this unit, the student will be able to:
 **3.1.3.1 Jet Pumps** <span id="3.1.3.1"></span> 
 -   **Reading: Wikipedia’s “Injector”**
     Link: Wikipedia’s
-    “[Injector](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Injector.pdf)”
+    “[Injector](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Injector.pdf)”
     (PDF)  
         
      Instructions: Read the article to learn the basic principles of
@@ -115,7 +115,7 @@ Upon successful completion of this unit, the student will be able to:
 **3.1.3.3 Others** <span id="3.1.3.3"></span> 
 -   **Reading: Wikipedia’s “Pump”**
     Link: Wikipedia’s
-    “[Pump](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Pump.pdf)”
+    “[Pump](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Pump.pdf)”
     (PDF)  
         
      Instructions: Skim the article to gain an appreciation for the many
@@ -144,7 +144,7 @@ Upon successful completion of this unit, the student will be able to:
 id="3.2"></span> 
 -   **Reading: Wikipedia’s “Centrifugal Pumps”**
     Link: Wikipedia’s “[Centrifugal
-    Pumps](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Centrifugal_pump.pdf)”
+    Pumps](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Centrifugal_pump.pdf)”
     (PDF)  
         
      Instructions: Read this Wiki article and take notes to concisely
@@ -220,12 +220,12 @@ id="3.2"></span> 
 id="3.3.2"></span> 
 -   **Reading: Scribd.com: Pramod B. Wankhade’s “Fans and Blowers”**
     Link: Scribd.com: Pramod B. Wankhade’s “[Fans and
-    Blowers](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Chapter-3.5-Fans-Blowers.pdf)”
+    Blowers](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/Chapter-3.5-Fans-Blowers.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/GUIDE-BOOK-pavan-kumar.epub)  
+    [iBooks](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/GUIDE-BOOK-pavan-kumar.epub)  
         
      Instructions: Study this text (pages 93-112) and attempt to answer
     the 10 questions at the end of the chapter.  

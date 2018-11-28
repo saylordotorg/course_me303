@@ -40,7 +40,7 @@ Upon successful completion of this unit, the student will be able to:
 **4.1.1 Standards Sizes** <span id="4.1.1"></span> 
 -   **Reading: MyCheme’s “Standard Pipe Sizes”**
     Link: MyCheme’s “[Standard Pipe
-    Sizes](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-4.1.1.pdf)”
+    Sizes](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-4.1.1.pdf)”
     (PDF)  
         
      Instructions: In this reading, you will learn how to calculate pipe
