@@ -39,12 +39,12 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: MIT: Professor Zoltan Spakovszky’s “Heat Transfer”**
     Link: MIT: Professor Zoltan Spakovszky’s “[Heat
-    Transfer](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-5.pdf)”
+    Transfer](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-5.pdf)”
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-5-Zoltan-Spakovszky.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-5-Zoltan-Spakovszky.epub)  
       
      Instructions: If you need a review of the fundamentals of heat
     transfer, these notes may be useful.  Click on the “PDF” hyperlink
@@ -103,13 +103,13 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Wikipedia’s “Thermal Conductivity,” “Heat Capacity,”
     “Viscosity,” and “Density”**
     Links: Wikipedia’s “[Thermal
-    Conductivity](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Thermal_conductivity.pdf),”
+    Conductivity](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Thermal_conductivity.pdf),”
     (PDF) “[Heat
-    Capacity](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Heat_capacity.pdf),”
+    Capacity](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Heat_capacity.pdf),”
     (PDF)
-    “[Viscosity](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Viscosity.pdf),”
+    “[Viscosity](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Viscosity.pdf),”
     (PDF) and
-    “[Density](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Density.pdf)”
+    “[Density](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Density.pdf)”
     (PDF)  
         
      Instructions: Read each of these articles to learn the appropriate
@@ -130,7 +130,7 @@ id="5.2"></span> 
 -   **Reading: Engineer’s Guide: “Basic Description of Heat Transfer
     Equipment” Blog Entry**
     Link: Engineer’s Guide: “[Basic Description of Heat Transfer
-    Equipment](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-5.2.pdf)”
+    Equipment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-5.2.pdf)”
     (PDF) Blog Entry  
         
      Instructions: Read this blog entry with particular emphasis on
@@ -145,12 +145,12 @@ id="5.2"></span> 
 **5.3.1 Heat—Transfer Coefficients** <span id="5.3.1"></span> 
 -   **Reading: MIT: Professor Zoltan Spakovszky’s “Heat Transfer”**
     Link: MIT: Professor Zoltan Spakovszky’s “[Heat
-    Transfer](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-5.pdf)”
+    Transfer](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-5.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-5-Zoltan-Spakovszky.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-5-Zoltan-Spakovszky.epub)  
         
      Instructions: Click on the “PDF” hyperlink after the title
     “Fundamentals of Heat Transfer” for section 3 to download the text. 
@@ -173,12 +173,12 @@ id="5.2"></span> 
 **5.3.2 Energy Balances and Efficiency** <span id="5.3.2"></span> 
 -   **Reading: MIT: Professor Zoltan Spakovszky’s “Heat Transfer”**
     Link: MIT: Professor Zoltan Spakovszky’s “[Heat
-    Transfer](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-5.pdf)”
+    Transfer](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-5.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-5-Zoltan-Spakovszky.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-5-Zoltan-Spakovszky.epub)  
         
      Instructions: Click on the “PDF” hyperlink after the title
     “Fundamentals of Heat Transfer” for section 3 to download the text. 
@@ -302,12 +302,12 @@ id="5.2"></span> 
 **5.5.1 Radiation from/to Surfaces** <span id="5.5.1"></span> 
 -   **Reading: MIT: Professor Zoltan Spakovszky’s “Heat Transfer”**
     Link: MIT: Professor Zoltan Spakovszky’s “[Heat
-    Transfer](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-5.pdf)”
+    Transfer](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-5.pdf)”
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-5-Zoltan-Spakovszky.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-5-Zoltan-Spakovszky.epub)  
       
      Instructions: Click on the “PDF” hyperlink after the title
     “Fundamentals of Heat Transfer” for section 3 to download the text. 
@@ -331,7 +331,7 @@ id="5.2"></span> 
 id="5.5.2"></span> 
 -   **Reading: U. S. Department of Energy’s “Solar Water Heaters”**
     Link: U. S. Department of Energy’s “[Solar Water
-    Heaters](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME303-5.5.2.pdf)”
+    Heaters](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME303-5.5.2.pdf)”
     (PDF)  
         
      Instructions: Read this link with particular attention to the types
